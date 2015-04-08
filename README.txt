@@ -1,3 +1,13 @@
+Run Instructions
+
+1.  Copy all files to a temporary directory
+2.  Start Python IDLE application
+3.  Use File Open to open create_movie_HTML_page.py
+4.  Use 'F5' key to run the program.
+5.  A list of movies whould be presented in a webbrowser.
+
+____________________________________________
+
 File List
 
 1. actor.py 
