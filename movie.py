@@ -1,5 +1,3 @@
-import movie_scene
-
 class Movie():
 
     def __init__(self, title, image_url, trailer_youtube_url ) :
